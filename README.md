@@ -5,7 +5,7 @@ By [Dunizb](http://duni.sinaapp.com) (Follow Me: [微博](http://www.weibo.com/d
 
 ![微信公众号](http://dunizb.b0.upaiyun.com/w/wxgzh.jpg)
 
-## [Chrome篇](./index.md/#Chrome篇)
+## [Chrome篇](./index.md/#chrome篇)
 
-- [Postman](./index.md/#Postman)
-- [Emoji Cheatsheet for GitHub]
+- [Postman](./index.md/#postman)
+- [Emoji Cheatsheet for GitHub](./index.md/#emoji-cheatsheet-for-github)
