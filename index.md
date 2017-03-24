@@ -40,4 +40,7 @@ Wappalyzer 网站是一个可以分析不同网站所使用的各种技术的工
 
 [网站](https://wappalyzer.com/?pk_campaign=chrome&pk_kwd=context)
 
-
+### Vysor
+https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm
+![](http://n1.itc.cn/img8/wb/recom/2016/06/30/146724365031030154.JPEG)
+实机调试 Android 应用，你是不是还在一边测试着 Android 设备一边在电脑上修改代码？有了 Vysor 这款 Chrome 插件，只需要通过 USB 连接，你就可以直接在 Chrome 中通过鼠标操作 Android 设备，设备间切换造成的时间成本降低了，开发效率自然就提高了。
