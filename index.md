@@ -32,3 +32,12 @@ Emoji表情，提交代码的时候可以添加各种emoji表情了,在github文
 ### chrome-markdown
 让你直接在浏览器中浏览Markdown文件内容
 [下载地址](http://pan.baidu.com/s/1kVSGLgj)
+
+### Wappalyzer
+Wappalyzer 网站是一个可以分析不同网站所使用的各种技术的工具，对于有自身经验的网站开发者而言可以通过代码开分析网站的构架和所采用的技术，不过现在你可以通过工具来获得网站技术的参数报告了。
+
+![Wappalyzer](http://static.oschina.net/uploads/space/2016/0106/112924_IRbh_811958.png)
+
+[网站](https://wappalyzer.com/?pk_campaign=chrome&pk_kwd=context)
+
+

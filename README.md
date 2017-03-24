@@ -10,3 +10,4 @@ By [Dunizb](http://duni.sinaapp.com) (Follow Me: [微博](http://www.weibo.com/d
 - [Postman](./index.md/#postman)
 - [Emoji Cheatsheet for GitHub](./index.md/#emoji-cheatsheet-for-github)
 - [Chrome Markdown](./index.md/#chrome-markdown)
+- [Wappalyzer](./index.md/#Wappalyzer)
