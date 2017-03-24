@@ -22,6 +22,13 @@ Emoji表情，提交代码的时候可以添加各种emoji表情了,在github文
 ```
 
 ![Postman](./img/emoji.png)
+
 在github显示emoji表情：
+
 ![github-emoji](./img/github-emoji.png)
+
 [下载地址](https://chrome.google.com/webstore/detail/emoji-cheatsheet-for-gith/nojknakoailnpbjlmfkpbbhoodlolfbh)
+
+### chrome-markdown
+让你直接在浏览器中浏览Markdown文件内容
+[下载地址](http://pan.baidu.com/s/1kVSGLgj)
