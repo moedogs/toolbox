@@ -7,8 +7,9 @@ By [Dunizb](http://duni.sinaapp.com) (Follow Me: [微博](http://www.weibo.com/d
 
 ## [Chrome篇](./index.md/#chrome篇)
 
-- [Postman](./index.md/#postman)
-- [Emoji Cheatsheet for GitHub](./index.md/#emoji-cheatsheet-for-github)
-- [Chrome Markdown](./index.md/#chrome-markdown)
-- [Wappalyzer](./index.md/#wappalyzer)
-- [Vysor：解放双手的 Android 测试工具](./index.md/#vysor)
+- [Postman：API测试](https://github.com/dunizb/toolbox/blob/master/index.md/#postman)
+- [Emoji Cheatsheet for GitHub：表情](https://github.com/dunizb/toolbox/blob/master/index.md/#emoji-cheatsheet-for-github)
+- [Chrome Markdown：预览md文件](https://github.com/dunizb/toolbox/blob/master/index.md/#chrome-markdown)
+- [Wappalyzer：网站技术栈检查](https://github.com/dunizb/toolbox/blob/master/index.md/#wappalyzer)
+- [Vysor：解放双手的 Android 测试工具](https://github.com/dunizb/toolbox/blob/master/index.md/#vysor)
+- [XX-Net：翻墙](https://github.com/dunizb/toolbox/blob/master/index.md/#xx-net)
