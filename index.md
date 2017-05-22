@@ -48,6 +48,10 @@ https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm
 
 ### XX-Net
 免费开源的翻墙利器
-
 [XX-Net中文网站](https://github.com/XX-net/XX-Net/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
 ![](https://www.bbspro.net/wp-content/uploads/2015/02/xxnet.png)
+
+### GitHub HTML Preview
+Github HTML Preview将预览按钮添加到Github仓库， 使其更快更可靠地预览HTML网页，而无需拉取或克隆。
+![](./img/github-html-preview.png)
+[下载地址](https://chrome.google.com/webstore/detail/github-html-preview/lmihfkpdkklhaaiejfmfjfjnbdmbnick?utm_source=chrome-ntp-icon)
