@@ -15,3 +15,4 @@ By [Dunizb](http://duni.sinaapp.com) (Follow Me: [微博](http://www.weibo.com/d
 - [XX-Net](https://github.com/dunizb/toolbox/blob/master/index.md/#xx-net)，代理，翻墙
 - [animate-playerboxa](https://github.com/dunizb/toolbox/blob/master/index.md/#animate-playerboxa)，Animate.css for Chrome
 - [GitHub HTML Preview](https://github.com/dunizb/toolbox/blob/master/index.md/#github-html-preview)，预览Github上HTML页面
+- [emojione](https://github.com/dunizb/toolbox/blob/master/index.md/#emojione)，快捷键盘输入Emoji表情

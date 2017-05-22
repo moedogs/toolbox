@@ -62,3 +62,8 @@ Github HTML Preview将预览按钮添加到Github仓库， 使其更快更可靠
 [下载地址](https://chrome.google.com/webstore/detail/github-html-preview/lmihfkpdkklhaaiejfmfjfjnbdmbnick?utm_source=chrome-ntp-icon)
 
 
+### emojione
+快捷键盘输入Emoji表情  
+![](./img/emojione.png)  
+[官方网站](https://www.emojione.com/)  
+[Chrome Store](https://chrome.google.com/webstore/detail/emoji-keyboard-2016-by-em/ipdjnhgkpapgippgcgkfcbpdpcgifncb)
