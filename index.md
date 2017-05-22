@@ -51,7 +51,14 @@ https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm
 [XX-Net中文网站](https://github.com/XX-net/XX-Net/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
 ![](https://www.bbspro.net/wp-content/uploads/2015/02/xxnet.png)
 
+### animate-playerboxa
+对于经常和动画开发打交道的开发者对于Animate.css这个动画库不会陌生，它把一些常见的动画效果都封装起来了，非常实用。但是有时候在开发中，仅仅只是需要某一两个动画效果，把整个CSS文件都引入，这样不是太好。animate-playerboxa就是这样一个工具，可以直接预览Animate.css对应的动画效果，并且生成对应的动画代码，从此不再需要把整个动画库都引入了。  
+![](./img/animate-playerboxa.png)  
+[下载地址](https://chrome.google.com/webstore/detail/animate-playerbox/lpjcokgibjaiedlkgjlkplfdppmehbeb)
+
 ### GitHub HTML Preview
 Github HTML Preview将预览按钮添加到Github仓库， 使其更快更可靠地预览HTML网页，而无需拉取或克隆。
 ![](./img/github-html-preview.png)
 [下载地址](https://chrome.google.com/webstore/detail/github-html-preview/lmihfkpdkklhaaiejfmfjfjnbdmbnick?utm_source=chrome-ntp-icon)
+
+
