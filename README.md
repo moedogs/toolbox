@@ -14,3 +14,4 @@ By [Dunizb](http://duni.sinaapp.com) (Follow Me: [微博](http://www.weibo.com/d
 - [Vysor：解放双手的 Android 测试工具](https://github.com/dunizb/toolbox/blob/master/index.md/#vysor)
 - [XX-Net：翻墙](https://github.com/dunizb/toolbox/blob/master/index.md/#xx-net)
 - [animate-playerboxa：Animate.css for Chrome](https://github.com/dunizb/toolbox/blob/master/index.md/#animate-playerboxa)
+- [GitHub HTML Preview：预览Github上HTML页面](https://github.com/dunizb/toolbox/blob/master/index.md/#github-html-preview)

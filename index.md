@@ -57,8 +57,8 @@ https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm
 [下载地址](https://chrome.google.com/webstore/detail/animate-playerbox/lpjcokgibjaiedlkgjlkplfdppmehbeb)
 
 ### GitHub HTML Preview
-Github HTML Preview将预览按钮添加到Github仓库， 使其更快更可靠地预览HTML网页，而无需拉取或克隆。
-![](./img/github-html-preview.png)
+Github HTML Preview将预览按钮添加到Github仓库， 使其更快更可靠地预览HTML网页，而无需拉取或克隆。  
+![](./img/github-html-preview.png)  
 [下载地址](https://chrome.google.com/webstore/detail/github-html-preview/lmihfkpdkklhaaiejfmfjfjnbdmbnick?utm_source=chrome-ntp-icon)
 
 
