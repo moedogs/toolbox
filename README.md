@@ -26,7 +26,7 @@ By [Dunizb](http://duni.sinaapp.com) (Follow Me: [微博](http://www.weibo.com/d
 - [booktree](https://github.com/phodal/booktree)，技术树
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) ，一个介绍golang的电子书，如何用golang建立一个网站
 
-## 插件、组件类
+## 插件、组件、工具类
 
 - [notyf](https://github.com/caroso1222/notyf)，一个非常简单的，响应式的JavaScript显示通知插件
 - [notie](https://github.com/jaredreich/notie)，一个干净简单的通知，JavaScript的输入和选择套件，没有其他任何依赖
@@ -37,3 +37,4 @@ By [Dunizb](http://duni.sinaapp.com) (Follow Me: [微博](http://www.weibo.com/d
 - [MybatisGenerator-UI](https://github.com/lishuo9527/MybatisGenerator-UI)，Mybatis 自动生成代码的 web 工具
 - [vue-mdEditor](https://github.com/ovenslove/vue-mdEditor) ，基于VUE的markdown文本编辑器
 - [eruda](https://github.com/liriliri/eruda)，专为手机网页前端设计的调试面板，类似 DevTools 的迷你版，其主要功能包括：捕获 console 日志、检查元素状态、显示性能指标、捕获XHR请求、显示本地存储和 Cookie 信息、浏览器特性检测等等。
+- [vConsole](https://github.com/Tencent/vConsole)，腾讯出品的一个轻量、可拓展、针对手机网页的前端开发者调试面板，功能与eruda一样。
